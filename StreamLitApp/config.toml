@@ -1,0 +1,18 @@
+[theme]
+base="light"
+primaryColor= "#3457d8"
+
+[[pages]]
+path = "app_aves.py"
+name = "Inicio"
+icon = "🏠"
+
+[[pages]]
+path = "identificador.py"
+name = "Identificador de Aves"
+icon = "🔎"
+
+[[pages]]
+path = "visualizador.py"
+name = "Visualizador de Aves"
+icon = "🌎"
